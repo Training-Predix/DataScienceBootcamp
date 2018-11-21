@@ -3,3 +3,7 @@ pandas
 matplotlib
 seaborn
 sklearn
+pandas-datareader
+lxml
+html5lib
+BeautifulSoup4
