@@ -4,6 +4,7 @@ matplotlib
 seaborn
 sklearn
 pandas-datareader
+xlrd
 lxml
 html5lib
 BeautifulSoup4
