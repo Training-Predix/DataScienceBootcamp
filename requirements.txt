@@ -8,3 +8,4 @@ xlrd
 lxml
 html5lib
 BeautifulSoup4
+nltk
