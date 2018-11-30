@@ -10,3 +10,5 @@ html5lib
 BeautifulSoup4
 nltk
 pyspark
+plotly
+cufflinks
