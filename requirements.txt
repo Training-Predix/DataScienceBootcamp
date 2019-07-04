@@ -12,3 +12,4 @@ nltk
 pyspark
 plotly
 cufflinks
+tensorflow
